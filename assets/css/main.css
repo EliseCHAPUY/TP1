@@ -1406,3 +1406,6 @@ svg path {
     font-family: "Raleway", Helvetica, sans-serif;
     font-size: 12px
 }
+
+#map { height: 60vh; 
+margin: 0 3% 0 3%;}
